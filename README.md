@@ -11,7 +11,7 @@ In this repository, each question folder contains the following files;
  - Markdown case study files which contains SQL queries answering the respective questions
 
 # SQL Questions
-[Question #1 - Data Science Skills](https://github.com/HabibatTheAnalyst/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%201%20-%20Danny's%20Diner)
+[Question #1 - Data Science Skills](https://github.com/HabibatTheAnalyst/DataLemur-SQL-Practice-Questions/tree/main/1.%20Data%20Science%20Skills)
 
 [Case Study #2 - Page With No Likes](https://github.com/HabibatTheAnalyst/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%202%20-%20Pizza%20Runner)
 
